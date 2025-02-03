@@ -1,56 +1,10 @@
 {
   "userinfo": {
-    "A": {
+    "privacy": {
       "version": "https://wsd-demo.netlify.app/app-test",
-      "onoff": 1,
+      "msg": 1,
       "isios": 0,
-      "iosU": "1",
-      "Area": [
-        {
-          "key": "HK",
-          "value": "https://www.macaoph.shop/index?affiliateCode=ph21app36",
-          "code": "https://images.6929183.com/wsd-images-prod/wj33f2/merchant_resource/android/wj33f2_2.4.62_20250118161128_20250118161527.apk"
-        },
-        {
-          "key": "PH",
-          "value": "https://www.macaoph.shop/index?affiliateCode=ph21app36",
-          "code": "https://images.6929183.com/wsd-images-prod/wj33f2/merchant_resource/android/wj33f2_2.4.62_20250118161128_20250118161527.apk"
-        },
-        {
-          "key": "BD",
-          "value": "https://www.bdbijoy5.com/index?affiliateCode=bd07app08",
-          "code": "https://images.6929183.com/wsd-images-prod/bbjoybdtf2/merchant_resource/android/bbjoybdtf2_2.4.59_20250111163018_20250111163353.apk"
-        },
-        {
-          "key": "BR",
-          "value": "https://www.p9jogo.com/s.html?c=p9app09",
-          "code": ""
-        }
-      ],
-      "Event": [
-        "test",
-        "register",
-        "Log_in",
-        "Place_an_order",
-        "pay",
-        "firstDepositArrival",
-        "login",
-        "deposit",
-        "redeposit",
-        "withdraw"
-      ],
-      "ID": [
-        "testid",
-        "ekv6u6",
-        "iyrpb1",
-        "hadakb",
-        "g9567q",
-        "p3wot3",
-        "gff6ed",
-        "wrkvcd",
-        "6f9mjo",
-        "apwgl0"
-      ]
+      "iosU": "1"
     }
   }
 }
